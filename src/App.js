@@ -1,23 +1,14 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <article className="App-header">
+      <h1>DAICENT TECHNOLOGY JSC</h1>
+      <p>DAICENT TECHNOLOGY JSC With 6+ years of leadership in AI Services Development, our mission has remained constant - complete client success</p>
+      <p>Công ty DAICENT TECHNOLOGY JSC tuyển Lập Trình Viên Front-End Lương 25 Triệu (Có 3 Năm Kinh Nghiệm) tại Hà Nội, Cầu Giấy, lương 20-25 triệu</p>
+      </article>
     </div>
   );
 }
